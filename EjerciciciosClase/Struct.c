@@ -55,7 +55,7 @@ struct Alumno
 
 
 // Cuerpo de la función main
-int main(void)
+int main(void) /*Función principal*/
 {
   // Declaración de la estructura Alumno
   struct Alumno edson; // Declaración de la variable alumno
